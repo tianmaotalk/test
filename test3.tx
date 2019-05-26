@@ -1,0 +1,6 @@
+git merge test
+1,git fetch github
+2,git merge 
+3,git commit
+4,git push github --all
+
