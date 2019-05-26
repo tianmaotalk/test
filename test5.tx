@@ -1,0 +1,10 @@
+1\git init gittest
+2\git remote add github https://github.com/tianmaotalk/test.git
+3\echo 'asdfadfsd'>test5.tx
+4\git add .
+5\git commit -m 'add test5.tx'
+6\git fetch github
+7\git merge --allow-unrelated-histories github/master
+8\git status
+9\git commit -m'merge commit'
+10\git push github master
