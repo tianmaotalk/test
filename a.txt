@@ -4,4 +4,6 @@ branch b_1 modify 2 by tzm
 
 branch b_1_1 modify 1 by tzm
 
-branch b_1 modify tzm thinkpad
+branch b_1 modif_y tzm modify by macos thinkpad
+
+append by macos b_1 
