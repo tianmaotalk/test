@@ -4,4 +4,11 @@ branch b_1 modify 2 by tzm
 
 branch b_1_1 modify 1 by tzm
 
-branch b_1 modify tzm thinkpad
+branch b_1 modify tzm thinkpad   apped by thinkpad b_1
+
+
+
+
+
+
+apped by thinkpad
